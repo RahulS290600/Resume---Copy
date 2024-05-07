@@ -1,0 +1,137 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    font-family: Helvetica, Arial, sans-serif;
+}
+.table{
+    
+    margin-left: .3%;
+    margin-top: .3%;
+    margin-right: -100%;
+}
+.left{
+    background-color: rgb(35, 33, 33);
+    color: white;
+    height:100%;
+    width:30vw;
+    
+}
+img{
+    margin-left: 20%;
+    margin-top: 10%;
+}
+.education h3{
+    margin-left: 20%;
+}
+.education hr{
+    margin-left: 20%;
+    border-color: rgb(231, 166, 44);
+    border-width: 1.5px;
+}
+
+.edu_table{
+    margin-left: 25%;  
+    margin-right: -10%;
+}
+.edu_table td{
+    padding-right: 35px;
+}
+
+.reference h3{
+    margin-left: 20%;
+}
+.reference hr{
+    margin-left: 20%;
+    border-color: rgb(231, 166, 44);
+    border-width: 1.5px;
+}
+.reference p{
+    margin-left: 25%;  
+    margin-right: -10%;
+}
+.contact{
+  text-align: center;
+  
+}
+.contact a{
+    color: #ffffff;
+    text-decoration: none;
+}
+.con_parent{
+    background-color: rgb(57, 56, 56);
+    height: 1.5em;
+    padding-top: -10px;;
+    margin-bottom: 10px;
+    display: flex;
+    text-align: center;
+}
+.con_child{
+    width: 20%;
+    background-color: orange;
+}
+
+
+.right{
+    background-color: #ffffff;
+    color: black;
+    height:100%;
+    width:30vw;
+    margin: 50px;
+    }
+
+.header{
+    background-color: orange;
+    padding-bottom: 5%;
+    margin-top: 10%;
+    margin-left: -0.5%;
+    margin-right: 0;
+    padding-top: 5%;
+    padding-left: 5%;;
+}
+
+.f_name{
+    font-weight: bold;
+    font-size: 150%;
+    letter-spacing: 2px;
+}
+.l_name{
+    font-size: 150%;
+    letter-spacing: 2px;
+}
+.header p{
+    font-size: 110%;
+    letter-spacing: 5px;
+}
+
+.about{
+    margin-left: 30px;
+    
+}
+
+.right_line{
+        border-color:black;
+        border-width: 2px;
+}
+/* .about p{
+    margin-right: 0%;
+} */
+.experirnce{
+    margin-left: 30px;
+    padding-left: 50px;
+
+}
+.experirnce p{
+    margin-left: 30px;
+    padding-left: 50px;
+}
+.parent {
+    background-color: grey;
+    height: 15px;
+    width: 300px;
+    }
+    .child {
+    background-color: black;
+    height: 15px;
+    width: 70%;
+    }
